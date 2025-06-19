@@ -7,7 +7,7 @@ export const EducationSection = () => {
       degree: "B.Tech, Computer Science Engineering",
       institution: "SRM Institute of Science and Technology, Chennai",
       duration: "2022–2026",
-      grade: "CGPA: 7.7/10",
+      grade: "CGPA: 7.4/10",
       coursework: ["DSA", "Computer Networks", "Software Engineering", "Product Management"],
       color: "blue"
     },
@@ -59,7 +59,7 @@ export const EducationSection = () => {
               <div key={index} className="relative">
                 {/* Timeline dot */}
                 <div className="absolute left-6 w-4 h-4 bg-white rounded-full border-4 border-gray-900 hidden md:block"></div>
-
+                
                 <div className="md:ml-20">
                   <div className={`group bg-gradient-to-br ${getColorClasses(edu.color)} backdrop-blur-sm border rounded-2xl p-8 hover:border-white/20 transition-all duration-500 hover:shadow-2xl hover:transform hover:scale-[1.01]`}>
                     <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between mb-6">
