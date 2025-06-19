@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Home, User, Briefcase, Code, Star, GraduationCap, Phone } from 'lucide-react';
+import { Menu, X, Home, User, Briefcase, Code, Star, GraduationCap, Phone, Lightbulb } from 'lucide-react';
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -17,8 +17,10 @@ export const Navbar = () => {
   const navItems = [
     { name: 'Home', href: '#hero', icon: Home },
     { name: 'Projects', href: '#projects', icon: Code },
+    { name: 'Innovation', href: '#innovation', icon: Lightbulb },
     { name: 'Experience', href: '#experience', icon: Briefcase },
     { name: 'Skills', href: '#skills', icon: Star },
+    { name: 'Leadership', href: '#leadership', icon: User },
     { name: 'Education', href: '#education', icon: GraduationCap },
     { name: 'Contact', href: '#contact', icon: Phone },
   ];

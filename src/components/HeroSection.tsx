@@ -32,10 +32,10 @@ export const HeroSection = () => {
               Anish Pranav
             </h1>
             <p className="text-xl sm:text-2xl text-gray-300 font-light">
-              Software Engineer & AI Researcher
+              Software Engineer | Mobile App Developer | AI/ML Developer
             </p>
             <p className="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed">
-              Building impactful technology solutions and pioneering AI innovations that shape the future of digital experiences
+              Versatile Software Engineer with a focus on intelligent mobile platforms, end-to-end system design, and applied machine learning.
             </p>
           </div>
 
