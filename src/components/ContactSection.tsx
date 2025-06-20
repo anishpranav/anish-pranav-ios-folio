@@ -118,7 +118,7 @@ export const ContactSection = () => {
 
       <footer className="mt-20 pt-8 border-t border-white/10 text-center">
         <p className="text-gray-400">
-          © 2025 Anish Pranav. Built with React, TypeScript, and Tailwind CSS.
+          © 2025 Anish Pranav. 
         </p>
       </footer>
     </section>
