@@ -7,7 +7,7 @@ export const EducationSection = () => {
       degree: "B.Tech, Computer Science Engineering",
       institution: "SRM Institute of Science and Technology, Chennai",
       duration: "2022–2026",
-      grade: "CGPA: 7.4/10",
+      grade: "CGPA: 7.7/10",
       coursework: ["DSA", "Computer Networks", "Software Engineering", "Product Management"],
       color: "blue"
     },
