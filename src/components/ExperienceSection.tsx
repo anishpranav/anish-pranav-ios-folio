@@ -19,7 +19,7 @@ export const ExperienceSection = () => {
       title: "Udrive Car Rental App",
       company: "Udrive, Chennai",
       location: "Remote",
-      duration: "Jan 2025–Present",
+      duration: "May 2025–Present",
       role: "Mobile App Developer",
       description: [
         "Designed UI/UX in Figma, frontend in Flutter",
